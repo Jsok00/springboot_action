@@ -9,7 +9,7 @@ import javax.sql.DataSource;
 @SpringBootTest
 class SpringbootWebApplicationTests {
 
-    
+
     @Test
     void contextLoads() {
     }
